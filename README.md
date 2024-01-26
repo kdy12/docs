@@ -2,7 +2,7 @@
 
 ## 哈哈
 
-哈哈哈哈哈。
+学习笔记。
 
 
 
@@ -10,7 +10,7 @@
 
 ```html
 <div class="alert alert-success">
-<b>你好：</b>
+<b>学习笔记</b>
 <ol>
 <li>嘿嘿嘿嘿</li>
 </ol>
